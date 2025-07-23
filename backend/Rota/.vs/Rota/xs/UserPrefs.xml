@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="Birden Çok Proje">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Rota.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Birden Çok Proje" Name="Birden Çok Proje">
+      <Items>
+        <StartupItem ItemId="{E318FADE-FE6C-4A18-92D6-8793230FAAE6}" ItemName="Rota.Api" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.Workbench ActiveDocument="RotaApi/Controllers/AuthController.cs">
+    <Files>
+      <File FileName="RotaApi/Controllers/ReportController.cs" Line="21" Column="1" />
+      <File FileName="RotaApi/Program.cs" Line="1" Column="1" />
+      <File FileName="RotaApi/Controllers/TourController.cs" Line="1" Column="1" />
+      <File FileName="RotaApi/Controllers/TourActivityController.cs" Line="57" Column="49" />
+      <File FileName="RotaApi/Controllers/AuthController.cs" Line="135" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Rota" expanded="True">
+            <Node name="Rota.Api">
+              <Node name="Controllers" expanded="True">
+                <Node name="AuthController.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Rota.Business">
+              <Node name="Mapping" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="Rota.Core" expanded="True">
+              <Node name="Interfaces" expanded="True" />
+            </Node>
+            <Node name="Rota.DataAccess" expanded="True">
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="Rota.Entities" expanded="True">
+              <Node name="DTOs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
